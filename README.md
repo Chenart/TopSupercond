@@ -2,7 +2,7 @@
 This is a repo for storing code and data related to the study of topological superconductors and their application to quantum computing.
 
 # Current Project
-Width-dependence of triviality in superconductors
+Determining the width-dependence of triviality in superconductors.
 
 # Useful Resources
 Kwant Documentation: https://kwant-project.org/doc/1.0/ <br />
